@@ -28,8 +28,8 @@ DEBUG = False
 ALLOWED_HOSTS = [
     '127.0.0.1',
     '.pythonanywhere.com',
-    'www.kodaharu.com',
-    'kodaharu.com',
+    'www.kodaharu.net',
+    'kodaharu.net',
 ]
 
 
