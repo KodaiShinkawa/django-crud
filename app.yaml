@@ -1,5 +1,5 @@
 runtime: python37
-service: config
+service: django-crud
 
 
 handlers:
