@@ -6996,6 +6996,13 @@ body #top_banner .banner {
 	padding: 70px 0px;
 	background-position: 50% 25%;
 }
+body #top_banner .serial_banner {
+	background-image: url("../img/serial_banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 70px 0px;
+	background-position: 50% 25%;
+}
 body #top_banner .page_info {
 	padding: 20px 0px 10px;
 	background: #f9f9f9;
